@@ -1,0 +1,44 @@
+
+
+body {
+	font-family: Verdana;
+}
+
+.labelform {
+}
+
+.inputdoform {
+}
+
+.estilodoinputdoform {
+}
+
+.botaosubmit {
+}
+
+.estilobotaosubmit {
+}
+
+.geral {
+	margin: 0 auto;	
+}
+
+.topo {
+	width: 100%;
+	height: 10%;
+	background-color: #993311;
+}
+
+.corpo {
+	width: 100%;
+}
+
+.corpoesquerdo {
+	width: 15%;
+	background-color: #22AAAA;
+	float:left;
+}
+
+.corpodireito {
+	background-color: #EE00DD;
+}

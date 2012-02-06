@@ -1,0 +1,48 @@
+body,p { margin:0px; padding:0px; }
+body,p { margin:0px; padding:0px; }
+body {font-family:Verdana, Arial,Helvetica,sans-serif;font-size:12px; color:#333; }
+a { text-decoration:none;
+	color:#0099FF;}
+img { text-decoration:none;
+      border:0px; }
+.clear{ clear:both; }
+
+#corpo {
+	
+	margin-top:100px;
+
+}
+#footer {
+	margin-top:40px;
+}
+ .caixa_busca {
+	padding:4px 2px;
+	width:400px;
+	color:#006600;
+}
+.botao {
+	-moz-border-radius:10px;
+	border:1px solid #006600;
+	background-color:#006600;
+	color:#FFFFFF;
+	height:31px;
+}
+.buscado {
+	font-style:italic;
+	color:#006600;
+	font-size:14px;
+}
+.servico {
+	padding-bottom:10px;
+}
+.servico .titulo {
+	color:#006600;
+	font-size:14px;
+	font-weight:bold;
+}
+.num_resultados {
+	color:#006600;
+	font-size:12px;
+	font-weight:bold;
+
+}
