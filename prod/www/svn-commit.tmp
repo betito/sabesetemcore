@@ -1,0 +1,9 @@
+Describe data for search engines
+--This line, and those below, will be ignored--
+
+A    keywords.inc
+AM   atualizarsitelocal.sh
+M    title.inc
+A    description.inc
+A    site_name.inc
+M    index.php
